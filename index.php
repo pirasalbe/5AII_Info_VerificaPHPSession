@@ -55,7 +55,7 @@
     					
     					<div class="row">
                             <div class="col-sm-1"><p>Numero: <p></div>
-                            <div class="col-sm-3"><input type="text" class="form-control" align="center" name="number"></div>
+                            <div class="col-sm-3"><input type="number" class="form-control" align="center" name="number"></div>
                             <div class="col-sm-2"><input class="btn btn-default" align="center" type="submit" name="add" value="Insert"></div>
                             
     				    </div>
